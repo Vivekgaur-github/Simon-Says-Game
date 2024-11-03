@@ -1,0 +1,44 @@
+body {
+  text-align: center;
+  font-size: 2rem;
+}
+
+.btn_box {
+  height: 11rem;
+  width: 12rem;
+  border: 0.5rem solid black;
+  border-radius: 1.5rem;
+  margin: 2rem;
+}
+
+.box {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.red {
+  background-color: #ee6464;
+}
+.yellow {
+  background: #dbef42;
+}
+.green {
+  background: #63f15e;
+}
+.blue {
+  background: #39b1f1;
+}
+.flash {
+  background: white;
+}
+.userflash {
+  background: #000;
+}
+
+/* Style for game over message at the bottom */
+#game-over-message {
+  margin-top: 2rem;
+  font-size: 2rem;
+  color: #333;
+}
