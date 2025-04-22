@@ -5,7 +5,7 @@ The Simon Says Game is a memory-based challenge built with JavaScript, HTML, and
 
 ## How to Play
 1. **Start the Game:**  
-   Open the [index.html](c:\Users\VIVEK\OneDrive\Desktop\Web Dev\Simon-Says-Game\index.html) file in your web browser. The game will display the message "Press any key to start". Simply press any key on your keyboard to begin.
+   Open the (https://simon-says-game-nine-sigma.vercel.app/) file in your web browser. The game will display the message "Press any key to start". Simply press any key on your keyboard to begin.
 
 2. **Game Sequence:**  
    - Once you've started the game, a random color will be highlighted.  
